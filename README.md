@@ -119,5 +119,10 @@ Rust • C • Linux • Systems Programming • Open Source
 
 Feel free to explore my repositories, leave feedback, or contribute if something interests you.
 
+## 📱 Social Media
+
+- Instagram: https://instagram.com/peace.lurker.com
+- https://hackclub.enterprise.slack.com/team/U0B5HCVGQ1G
+
 Thanks for visiting my profile!
 
