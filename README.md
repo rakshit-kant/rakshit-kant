@@ -103,11 +103,11 @@ A lightweight note-taking application written in C, designed to explore file han
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshit123&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshit-kant&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rakshit123&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rakshit-kant&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit123&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit-kant&layout=compact&theme=tokyonight&hide_border=true)
 
 ```text
 Rust • C • Linux • Systems Programming • Open Source
