@@ -121,8 +121,9 @@ Feel free to explore my repositories, leave feedback, or contribute if something
 
 ## 📱 Social Media
 
+- Email: rakshitkant100@gmail.com
 - Instagram: https://instagram.com/peace.lurker.com
-- https://hackclub.enterprise.slack.com/team/U0B5HCVGQ1G
+- Slack (Via HackClub): https://hackclub.enterprise.slack.com/team/U0B5HCVGQ1G
 
 Thanks for visiting my profile!
 
