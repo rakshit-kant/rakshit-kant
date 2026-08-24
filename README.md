@@ -1,103 +1,49 @@
-# Hi there, I'm Rakshit 👋
+# Hi, I'm Rakshit 👋
 
-> *Building fast, reliable software in Rust and C while exploring Linux, systems programming, and low-level development.*
+> Building AI/ML projects while exploring Rust, C, Linux, and systems programming.
 
----
+## 🤖 About Me
 
-## 🚀 About Me
+I'm an aspiring **AI/ML developer** interested in building efficient software and understanding how things work under the hood.
 
-I'm an aspiring teen systems programmer passionate about understanding how computers work beneath the surface. My primary focus is **Rust** and **C**, where I enjoy building command-line applications, terminal tools, and projects that teach me something new every time I write code.
+Currently exploring **Machine Learning, Deep Learning, Rust, C, and Linux**.
 
-Beyond programming, I enjoy customizing Linux environments, experimenting with Hyprland, and continuously improving my workflow.
-
-I believe the best way to learn is by building.
-
----
+I learn by building.
 
 ## 🛠️ Tech Stack
 
-### Languages
+**AI/ML:** Python · NumPy · Pandas · Scikit-learn · PyTorch
 
-* 🦀 Rust
-* ⚙️ C
-* 🐍 Python (Basic)
+**Systems:** Rust · C · Linux · Bash
 
-### Tools
+**Tools:** Git · Cargo · GCC/Clang · Neovim
 
-* Git & GitHub
-* Cargo
-* GCC / Clang
-* Neovim
-* Kitty
-* Bash
+## 🚀 Projects
 
----
-
-## 🌟 Featured Projects
-
-### 🎵 Resonance
-
-A terminal-based music player and audio visualizer written in Rust.
-
-**Goals**
-
-* Fast and lightweight
-* Beautiful terminal UI
-* Real-time audio visualization
-* Keyboard-driven experience
-
----
-
-### 🐚 Ash
-
-A Unix-like shell written in Rust.
-
-Features include:
-
-* Command execution
-* Built-in commands
-* Shell parsing
-* Learning-focused architecture
-
----
-
-### 🏦 FerroBank
-
-A command-line banking system built with Rust.
-
-Highlights:
-
-* Account management
-* Deposits & withdrawals
-* Money transfers
-* Persistent data storage
-
----
-
-### 📝 Memory Notes
-
-A lightweight note-taking application written in C, designed to explore file handling, data structures, and low-level programming concepts.
-
----
-
-## 📚 Currently Learning
-
-* Advanced Rust
-* Systems Programming
-* Networking
-* Operating Systems
-* Linux Internals
-* Terminal User Interfaces (TUIs)
-
----
+* 🧠 **AI/ML Projects** — Machine learning, neural networks & AI applications
+* 🎵 **Resonance** — Terminal music player & audio visualizer in Rust
+* 🐚 **Ash** — Unix-like shell written in Rust
+* 🏦 **FerroBank** — CLI banking system in Rust
+* 📝 **Memory Notes** — Lightweight note-taking app in C
 
 ## 🎯 Goals
 
-* Build high-quality open-source software
-* Master Rust and C
-* Learn computer networking and operating systems in depth
-* Create polished developer tools
-* Contribute to open-source projects
+* Master AI/ML
+* Master Rust & C
+* Build high-performance AI software
+* Learn OS, networking & systems programming
+* Contribute to open source
+
+```text
+AI/ML • Rust • C • Python • Linux • Systems Programming
+```
+
+## 🤝 Connect
+
+* 📧 Email: [rakshitkant100@gmail.com](mailto:rakshitkant100@gmail.com)
+* 📷 Instagram: https://instagram.com/peace.lurker.com
+* 💬 Slack: https://hackclub.enterprise.slack.com/team/U0B5HCVGQ1G
+
 
 ---
 
@@ -108,22 +54,4 @@ A lightweight note-taking application written in C, designed to explore file han
 [![GitHub Streak](https://streak-stats.demolab.com?user=rakshit-kant&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshit-kant&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-
-```text
-Rust • C • Linux • Systems Programming • Open Source
-```
-
----
-
-## 🤝 Connect
-
-Feel free to explore my repositories, leave feedback, or contribute if something interests you.
-
-## 📱 Social Media
-
-- Email: rakshitkant100@gmail.com
-- Instagram: https://instagram.com/peace.lurker.com
-- Slack (Via HackClub): https://hackclub.enterprise.slack.com/team/U0B5HCVGQ1G
-
-Thanks for visiting my profile!
 
