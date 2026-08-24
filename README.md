@@ -52,6 +52,3 @@ AI/ML • Rust • C • Python • Linux • Systems Programming
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rakshit-kant&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rakshit-kant&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshit-kant&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-
