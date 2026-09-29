@@ -1,41 +1,35 @@
 # Hi, I'm Rakshit 👋
 
-> Building AI/ML projects while exploring Rust, C, Linux, and systems programming.
-
 ## 🤖 About Me
 
-I'm an aspiring **AI/ML developer** interested in building efficient software and understanding how things work under the hood.
+I'm an aspiring **Systems Developer** interested in building efficient software and understanding how things work under the hood.
 
-Currently exploring **Machine Learning, Deep Learning, Rust, C, and Linux**.
+Currently exploring **Embedded Systems**.
 
 I learn by building.
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** Python · NumPy · Pandas · Scikit-learn · PyTorch
+**Systems:** Rust · C · Linux · Systems · Embedded Systems
 
-**Systems:** Rust · C · Linux · Bash
-
-**Tools:** Git · Cargo · GCC/Clang · Neovim
+**Tools:** Git · Cargo · GCC/Clang · Lazyvim · ESP 32 · Arduino UNO
 
 ## 🚀 Projects
 
-* 🧠 **AI/ML Projects** — Machine learning, neural networks & AI applications
 * 🎵 **Resonance** — Terminal music player & audio visualizer in Rust
 * 🐚 **Ash** — Unix-like shell written in Rust
 * 🏦 **FerroBank** — CLI banking system in Rust
-* 📝 **Memory Notes** — Lightweight note-taking app in C
+* 📝 **Memory Notes** — Lightweight Web Hosted note-taking app in C -> https://memory-notes.rakshit-kant.hackclub.app
 
 ## 🎯 Goals
 
-* Master AI/ML
 * Master Rust & C
-* Build high-performance AI software
+* Work with Embedded Systems
 * Learn OS, networking & systems programming
 * Contribute to open source
 
 ```text
-AI/ML • Rust • C • Python • Linux • Systems Programming
+Rust • C • Python • Linux • Systems Programming · Embedded Systems · ESP 32
 ```
 
 ## 🤝 Connect
