@@ -15,7 +15,7 @@ I learn by building.
 **Tools:** Git · Cargo · GCC/Clang · Lazyvim · ESP 32 · Arduino UNO
 
 ## 🚀 Projects
-
+* 🔩 **SocketSmith** — My Own Local Frontend Hosting HTTP Server
 * 🎵 **Resonance** — Terminal music player & audio visualizer in Rust
 * 🐚 **Ash** — Unix-like shell written in Rust
 * 🏦 **FerroBank** — CLI banking system in Rust
