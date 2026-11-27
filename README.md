@@ -41,6 +41,10 @@ Rust • C • Python • Linux • Systems Programming · Embedded Systems · E
 
 ---
 
+## 📈 Coding Stats
+
+[![Coding Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=34779&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rakshit-kant&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
